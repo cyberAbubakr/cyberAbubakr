@@ -1,59 +1,86 @@
 # **Hello, I'm Abubakr Siddiq**  
-<a href="https://www.linkedin.com/in/abubakr-kazmi-483097323" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+<a href="https://www.linkedin.com/in/abubakr-kazmi-483097323" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://tryhackme.com/p/5112124020" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-TryHackMe-212121?&style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+<a href="https://tryhackme.com/p/5112124020" target="_blank">
+  <img src="https://img.shields.io/badge/-TryHackMe-212121?&style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
-I am a BS Computer Science student passionate about cybersecurity, eager to grow as a SOC Analyst by applying defensive security and ethical hacking skills.
+---
 
-## **Objective**
+## 👨‍💻 **About Me**
 
-To join a Security Operations Center (SOC) as a Tier 1 Analyst, leveraging hands-on knowledge in detection, response, and scripting.
+I am a BS Computer Science student with a strong interest in cybersecurity, focused on building practical skills in **Security Operations Center (SOC) analysis**, threat detection, and incident response.
 
-## **Skills**
+I am actively developing hands-on experience through labs, scripting, and real-world simulations to become a **SOC Tier 1 Analyst**.
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/cyberAbubakr/blue-team-notes">Blue Team Notes</a> |
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/cyberAbubakr/tryhackme-writeups">TryHackMe Writeups</a> |
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/cyberAbubakr/cybersecurity-scripts">Cybersecurity Scripts</a> |
+---
 
-## **Tools**
+## 🎯 **Objective**
 
-### **Network**  
+To secure a role as a **SOC Analyst (Tier 1)** where I can contribute to monitoring, detecting, and responding to security incidents using practical and analytical skills.
+
+---
+
+## 🛠️ **Skills & Projects**
+
+| Skill | Project |
+|------|--------|
+| SIEM Fundamentals & Log Analysis | <a href="https://github.com/cyberAbubakr/log-analysis-mini-siem">Log Analysis Mini SIEM</a> |
+| Network Traffic Analysis & Threat Detection | <a href="https://github.com/cyberAbubakr/network-traffic-analysis">Network Traffic Analysis (Wireshark)</a> |
+| Security Automation & Scripting | <a href="https://github.com/cyberAbubakr/security-automation-tools">Security Automation Tools</a> |
+| Incident Response & SOC Procedures | <a href="https://github.com/cyberAbubakr/incident-response-playbooks">Incident Response Playbooks</a> |
+
+---
+
+## 🧰 **Tools & Technologies**
+
+### 🌐 Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark" />
-    <img src="https://img.shields.io/badge/-Nmap-00457C?&style=for-the-badge" alt="Nmap" />
-   
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-00457C?&style=for-the-badge" />
 </div>
 
-### **Operating Systems**  
+### 💻 Operating Systems
 <div>
-    <img src="https://img.shields.io/badge/-Linux-333?&style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    <img src="https://img.shields.io/badge/-Linux-333?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
-### **Programming & Scripting**  
+### 🧑‍💻 Programming & Scripting
 <div>
-    <img src="https://img.shields.io/badge/-Python-14354C?&style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-    <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/-Python-14354C?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
-## **Certifications (Google Cybersecurity Certificates on Coursera)**
+---
 
-- [**Foundations: Introduction to Cybersecurity** (Coursera)](https://www.coursera.org/account/accomplishments/records/1K5NSKQJ4ZTW)  
-- [**Fundamentals of Network Security** (Coursera)](https://www.coursera.org/account/accomplishments/records/L4YUU4C9VRHJ)  
-- [**System Administration and Security** (Coursera)](https://www.coursera.org/account/accomplishments/records/6Z2LL2BPCXSJ)  
-- [**Threat Detection and Mitigation** (Coursera)](https://www.coursera.org/account/accomplishments/records/FS20VXTWMHXC)  
-- [**Incident Response and Recovery** (Coursera)](https://coursera.org/share/b3f5d5c89eefb653459088c8599c99a0)  
-- [**Capstone Project: Cybersecurity Operations** (Coursera)](https://www.coursera.org/account/accomplishments/records/YDS143YSBLIV)  
+## 📜 **Certifications**
 
+- [Foundations: Introduction to Cybersecurity](https://www.coursera.org/account/accomplishments/records/1K5NSKQJ4ZTW)  
+- [Fundamentals of Network Security](https://www.coursera.org/account/accomplishments/records/L4YUU4C9VRHJ)  
+- [System Administration and Security](https://www.coursera.org/account/accomplishments/records/6Z2LL2BPCXSJ)  
+- [Threat Detection and Mitigation](https://www.coursera.org/account/accomplishments/records/FS20VXTWMHXC)  
+- [Incident Response and Recovery](https://coursera.org/share/b3f5d5c89eefb653459088c8599c99a0)  
+- [Capstone Project: Cybersecurity Operations](https://www.coursera.org/account/accomplishments/records/YDS143YSBLIV)  
 
-## **Projects**
+---
 
-- [tryhackme-writeups](https://github.com/cyberAbubakr/tryhackme-writeups)  
-- [cybersecurity-scripts](https://github.com/cyberAbubakr/cybersecurity-scripts)  
-- [blue-team-notes](https://github.com/cyberAbubakr/blue-team-notes)  
+## 🚀 **Current Focus**
+
+- Practicing SOC scenarios (TryHackMe)
+- Building detection & analysis projects
+- Improving Python for security automation
+- Learning SIEM concepts (Splunk basics)
+
+---
+
+## 📌 **Goals (2026)**
+
+- Build strong SOC portfolio
+- Contribute to open-source security tools
+- Land a cybersecurity internship / SOC role
+
+---
