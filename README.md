@@ -1,5 +1,4 @@
 # **Hello, I'm Abubakr Siddiq**  
-
 <a href="https://www.linkedin.com/in/abubakr-kazmi-483097323" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -10,21 +9,20 @@
 ---
 
 ## 👨‍💻 **About Me**
-
 I am a BS Computer Science student with a strong interest in cybersecurity, focused on building practical skills in **Security Operations Center (SOC) analysis**, threat detection, and incident response.
 
 I am actively developing hands-on experience through labs, scripting, and real-world simulations to become a **SOC Tier 1 Analyst**.
 
+I am also exploring **Artificial Intelligence** through my university coursework, gaining foundational knowledge in how AI and ML concepts can be applied to modern cybersecurity challenges such as anomaly detection and threat prediction.
+
 ---
 
 ## 🎯 **Objective**
-
 To secure a role as a **SOC Analyst (Tier 1)** where I can contribute to monitoring, detecting, and responding to security incidents using practical and analytical skills.
 
 ---
 
 ## 🛠️ **Skills & Projects**
-
 | Skill | Project |
 |------|--------|
 | SIEM Fundamentals & Log Analysis | <a href="https://github.com/cyberAbubakr/log-analysis-mini-siem">Log Analysis Mini SIEM</a> |
@@ -55,10 +53,16 @@ To secure a role as a **SOC Analyst (Tier 1)** where I can contribute to monitor
     <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
+### 🤖 AI & Machine Learning *(University Coursework)*
+<div>
+    <img src="https://img.shields.io/badge/-Artificial Intelligence-FF6F00?&style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Machine Learning-102230?&style=for-the-badge&logo=scikitlearn&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NumPy-013243?&style=for-the-badge&logo=numpy&logoColor=white" />
+</div>
+
 ---
 
 ## 📜 **Certifications**
-
 - [Foundations: Introduction to Cybersecurity](https://www.coursera.org/account/accomplishments/records/1K5NSKQJ4ZTW)  
 - [Fundamentals of Network Security](https://www.coursera.org/account/accomplishments/records/L4YUU4C9VRHJ)  
 - [System Administration and Security](https://www.coursera.org/account/accomplishments/records/6Z2LL2BPCXSJ)  
@@ -68,19 +72,28 @@ To secure a role as a **SOC Analyst (Tier 1)** where I can contribute to monitor
 
 ---
 
-## 🚀 **Current Focus**
+## 📚 **University Coursework**
+| Course | Status |
+|--------|--------|
+| Programming for Artificial Intelligence | 🟡 In Progress |
+| Data Structures & Algorithms | ✅ Completed |
+| Computer Networks | ✅ Completed |
+| Operating Systems | ✅ Completed |
+| Object Oriented Programming | ✅ Completed |
 
+---
+
+## 🚀 **Current Focus**
 - Practicing SOC scenarios (TryHackMe)
 - Building detection & analysis projects
 - Improving Python for security automation
 - Learning SIEM concepts (Splunk basics)
+- Exploring **AI applications in cybersecurity** (anomaly detection, threat prediction)
 
 ---
 
 ## 📌 **Goals (2026)**
-
 - Build strong SOC portfolio
 - Contribute to open-source security tools
 - Land a cybersecurity internship / SOC role
-
----
+- Explore how **AI/ML can enhance threat detection** in SOC environments
