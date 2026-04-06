@@ -1,99 +1,95 @@
-# **Hello, I'm Abubakr Siddiq**  
-<a href="https://www.linkedin.com/in/abubakr-kazmi-483097323" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://tryhackme.com/p/5112124020" target="_blank">
-  <img src="https://img.shields.io/badge/-TryHackMe-212121?&style=for-the-badge&logo=tryhackme&logoColor=white" />
-</a>
+# 👨‍💻 Abubakr Siddiq  
+### SOC Analyst | Cybersecurity | AI Enthusiast  
 
 ---
 
-## 👨‍💻 **About Me**
-I am a BS Computer Science student with a strong interest in cybersecurity, focused on building practical skills in **Security Operations Center (SOC) analysis**, threat detection, and incident response.
+## 🧑‍💼 About Me
+BS Computer Science student with a **current CGPA of 3.66 (targeting 3.67)**, building real-world skills in **threat detection, incident response, and security automation**.  
 
-I am actively developing hands-on experience through labs, scripting, and real-world simulations to become a **SOC Tier 1 Analyst**.
+Passionate about bridging **AI + Cybersecurity** to build smarter, adaptive defenses.  
 
-I am also exploring **Artificial Intelligence** through my university coursework, gaining foundational knowledge in how AI and ML concepts can be applied to modern cybersecurity challenges such as anomaly detection and threat prediction.
-
----
-
-## 🎯 **Objective**
-To secure a role as a **SOC Analyst (Tier 1)** where I can contribute to monitoring, detecting, and responding to security incidents using practical and analytical skills.
+- 🎯 Target Role: **SOC Tier 1 Analyst**
+- 📍 Rawalpindi, Pakistan  
+- 🎓 BS Computer Science (CGPA: 3.66 → Target: 3.67)  
+- 💼 Open to internships  
 
 ---
 
-## 🛠️ **Skills & Projects**
-| Skill | Project |
-|------|--------|
-| SIEM Fundamentals & Log Analysis | <a href="https://github.com/cyberAbubakr/log-analysis-mini-siem">Log Analysis Mini SIEM</a> |
-| Network Traffic Analysis & Threat Detection | <a href="https://github.com/cyberAbubakr/network-traffic-analysis">Network Traffic Analysis (Wireshark)</a> |
-| Security Automation & Scripting | <a href="https://github.com/cyberAbubakr/security-automation-tools">Security Automation Tools</a> |
-| Incident Response & SOC Procedures | <a href="https://github.com/cyberAbubakr/incident-response-playbooks">Incident Response Playbooks</a> |
+## 🔗 Connect With Me
+- 💼 [LinkedIn](#)
+- 💻 [GitHub](#)
+- ☠️ [TryHackMe](#)
 
 ---
 
-## 🧰 **Tools & Technologies**
+## 🚀 Projects  
 
-### 🌐 Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-00457C?&style=for-the-badge" />
-</div>
-
-### 💻 Operating Systems
-<div>
-    <img src="https://img.shields.io/badge/-Linux-333?&style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-### 🧑‍💻 Programming & Scripting
-<div>
-    <img src="https://img.shields.io/badge/-Python-14354C?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-</div>
-
-### 🤖 AI & Machine Learning *(University Coursework)*
-<div>
-    <img src="https://img.shields.io/badge/-Artificial Intelligence-FF6F00?&style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Machine Learning-102230?&style=for-the-badge&logo=scikitlearn&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NumPy-013243?&style=for-the-badge&logo=numpy&logoColor=white" />
-</div>
+### 🔒 Password Strength Checker
+**Python | Security Logic | CLI Tool**  
+- Evaluates passwords based on 5 security criteria  
+- Provides actionable suggestions for stronger passwords  
 
 ---
 
-## 📜 **Certifications**
-- [Foundations: Introduction to Cybersecurity](https://www.coursera.org/account/accomplishments/records/1K5NSKQJ4ZTW)  
-- [Fundamentals of Network Security](https://www.coursera.org/account/accomplishments/records/L4YUU4C9VRHJ)  
-- [System Administration and Security](https://www.coursera.org/account/accomplishments/records/6Z2LL2BPCXSJ)  
-- [Threat Detection and Mitigation](https://www.coursera.org/account/accomplishments/records/FS20VXTWMHXC)  
-- [Incident Response and Recovery](https://coursera.org/share/b3f5d5c89eefb653459088c8599c99a0)  
-- [Capstone Project: Cybersecurity Operations](https://www.coursera.org/account/accomplishments/records/YDS143YSBLIV)  
+### 🌐 Port Scanner  
+**Python | Sockets | Recon**  
+- Detects open ports and running services  
+- Lightweight alternative to Nmap  
 
 ---
 
-## 📚 **University Coursework**
-| Course | Status |
-|--------|--------|
-| Programming for Artificial Intelligence | 🟡 In Progress |
-| Data Structures & Algorithms | ✅ Completed |
-| Computer Networks | ✅ Completed |
-| Operating Systems | ✅ Completed |
-| Object Oriented Programming | ✅ Completed |
+### 📊 Log File Analyzer — Mini SIEM  
+**Python | Regex | Threat Detection | SIEM**  
+- Detects brute-force attacks  
+- Flags suspicious IPs  
+- Generates SOC-level recommendations  
 
 ---
 
-## 🚀 **Current Focus**
-- Practicing SOC scenarios (TryHackMe)
-- Building detection & analysis projects
-- Improving Python for security automation
-- Learning SIEM concepts (Splunk basics)
-- Exploring **AI applications in cybersecurity** (anomaly detection, threat prediction)
+### 🧠 AI × Cybersecurity (In Progress)  
+**Python | ML | Anomaly Detection**  
+- Exploring threat prediction using ML  
 
 ---
 
-## 📌 **Goals (2026)**
-- Build strong SOC portfolio
-- Contribute to open-source security tools
-- Land a cybersecurity internship / SOC role
-- Explore how **AI/ML can enhance threat detection** in SOC environments
+## 🛠 Skills & Tools  
+
+| Category        | Tools / Skills |
+|----------------|--------------|
+| 🍎 Programming | Python, C++ |
+| 💻 OS          | Linux |
+| 🔍 Networking  | Wireshark, Nmap |
+| 🛠 Scripting   | Bash |
+| ⚙ Security     | Splunk (SIEM Basics) |
+| 🧠 AI/ML       | Learning |
+
+---
+
+## 📜 Certifications  
+
+- Introduction to Cybersecurity  
+- Network Security Fundamentals  
+- System Administration & Security  
+- Threat Detection & Mitigation  
+- Incident Response & Recovery  
+- Cybersecurity Operations Capstone  
+
+---
+
+## 🎓 University Coursework  
+
+- Programming for AI  
+- Data Structures & Algorithms  
+- Computer Networks  
+- Operating Systems  
+- Object-Oriented Programming  
+
+---
+
+## 🎯 Career Goal  
+To become a **SOC Analyst (Tier 1)** and specialize in **AI-driven cybersecurity defense systems**.  
+
+---
+
+## ⚡ Motto  
+> *"Death has me, when it earns me."*  
